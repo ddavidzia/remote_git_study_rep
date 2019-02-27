@@ -1,1 +1,3 @@
-wprowadzam zmiany w pliku
+wprowadzam zmiany w pliku - tutaj lekka modyfikacja
+dodaje linike po instalacji gitlens
+zaobaczymy co sie dzieje :)

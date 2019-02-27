@@ -1,1 +1,5 @@
 git fetch z konsoli czy widac wskaznik orgin/master
+
+- nie  widac czyli normalnie lepiej przez F1 
+- najpierw >Git: fetch
+- potem >Git: Merge ... orgin/master

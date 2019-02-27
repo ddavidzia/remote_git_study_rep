@@ -7,4 +7,5 @@ public class hello {
         System.out.println("hello offline git");
     }
     //dodaje linike zeby sprawdzic git revert 
+    //sprawdze czy dziala dodawanie tresci komentarza w VScode 
 }

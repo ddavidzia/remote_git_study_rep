@@ -5,7 +5,7 @@
 public class hello {
 
     public static void main(String[] args) {
-        System.out.println("hello offline git");
+        System.out.println("hello offline git"); //modyfikaja przez ddavidzia 
         System.out.println("hello offline git - DEVELOP LINE");
     } 
     //sprawdze czy dziala dodawanie tresci komentarza w VScode 
